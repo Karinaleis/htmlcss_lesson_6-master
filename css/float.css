@@ -1,0 +1,27 @@
+.block1{
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    float: left;
+   
+}
+
+.block2{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    float: left;
+}
+
+.block3{
+    width: 200px;
+    height: 50px;
+    background-color: green;
+    float: right;
+}
+
+.parent{
+    background-color: yellow;
+    padding: 5px;
+    
+}

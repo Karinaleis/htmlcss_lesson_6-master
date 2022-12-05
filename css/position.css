@@ -1,0 +1,38 @@
+.parent{
+    position: relative;
+}
+
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    z-index: 1;
+    opacity: 0.5;
+   
+}
+
+.block2{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    
+   
+
+}
+
+.block3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: relative;
+    bottom: 20px;
+    left: 20px;
+    opacity: 0.5;
+}
+
+
+

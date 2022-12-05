@@ -1,0 +1,11 @@
+.img{
+    width: 100px;
+}
+
+.block{
+    width: 100px;
+    height: 100px;
+    background-image: url(../background/christmas1.jpg);
+  
+    
+}
